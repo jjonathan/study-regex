@@ -1,0 +1,3 @@
+Flags
+    g - global
+    i - case insensitve
